@@ -1,0 +1,8 @@
+class playerArcher
+{
+  constructor() 
+  {
+    
+  }
+  
+}
